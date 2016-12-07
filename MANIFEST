@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Yandex-Search-XML.t
+lib/Yandex/Search/XML.pm
